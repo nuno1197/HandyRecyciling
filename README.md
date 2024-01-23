@@ -27,7 +27,8 @@ container based on the type of waste it accommodates, the configuration of the c
 (e.g., 4 wheels, 2 wheels), and the condition of its lid (open, closed, or full). Additionally,
 the model demonstrates proficiency in identifying and classifying waste materials in close
 proximity to the container.
-Keywords: Waste Management, Object Detection, Instance Segmentation
+  
+<b>Keywords: Waste Management, Object Detection, Instance Segmentation</b>
 </p>
 
 <h3 align="left">PUBLIC DATASETS</h3>
