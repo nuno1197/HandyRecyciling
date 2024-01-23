@@ -3,24 +3,31 @@
 
 <h3 align="left">Abstract:</h3>
 <p align="left">
-  Recycling stands as one of the most effective contemporary practices for pollution prevention.
+Recycling stands as one of the most effective contemporary practices for pollution prevention.
 Through the process of recycling, a reduction in our reliance on finite natural resources is
 achieved, concurrently leading to energy conservation, decreased carbon dioxide emissions,
 and economic savings. In the context of the European Union, it is noteworthy that Portugal
-currently registers one of the lowest recycling rates. Consequently, it becomes imperative for
-the nation to commit towards accomplish the European objective of recycling all single-use
-packaging materials.
-A significant strategy to boost these recycling rates involves the widespread deployment
-of small, medium or large capacity waste containers, typically ranging from 120 liters to
-360 liters, across municipalities. However, the efficient management of these containers
-necessitates a consistent and meticulous approach by waste collection entities.
-Presently, the methodology employed in this regard is antiquated, characterized by waste
-collection teams manually inspecting each container within their designated areas to check
-their fill status. This labor-intensive process poses inherent inefficiencies and challenges.
-The principal aim of this Master’s work resides in the development of a system capable of
-detecting and classifying urban solid waste containers. This goal opens the door to potential
-applications in the world of waste collection, generating, for example, daily collection routes
-in the future.
+currently registers one of the lowest recycling rates. Consequently, it becomes imperative
+for the nation to commit towards accomplish the European objective of recycling all singleuse
+packaging materials. A significant strategy to boost these recycling rates involves
+the widespread deployment of small, medium or large capacity waste containers, typically
+ranging from 120 liters to 360 liters, across municipalities. However, the efficient management
+of these containers necessitates a consistent and meticulous approach by waste collection
+entities. Presently, the methodology employed in this regard is antiquated, characterized
+by waste collection teams manually inspecting each container within their designated areas
+to check their fill status. This labor-intensive process poses inherent inefficiencies and
+challenges. The primary objective of this master’s project involves the development of
+a system capable of detecting and classifying urban waste containers. This goal holds
+promising applications in the domain of waste management, potentially facilitating the
+generation of daily collection routes in the future. Images for this study were sourced from
+individual contributors, from Street View feature in Google Maps and a project known as
+Tidy City, which gathers various items, including containers, from a designated municipality.
+Subsequently, a model was constructed with the ability to discern and categorize a specific
+container based on the type of waste it accommodates, the configuration of the container
+(e.g., 4 wheels, 2 wheels), and the condition of its lid (open, closed, or full). Additionally,
+the model demonstrates proficiency in identifying and classifying waste materials in close
+proximity to the container.
+Keywords: Waste Management, Object Detection, Instance Segmentation
 </p>
 
 <h3 align="left">PUBLIC DATASETS</h3>
